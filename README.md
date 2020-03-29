@@ -1,5 +1,7 @@
 # travel
 
+<img src="assets/screenshots/1.png" width="170" height="320">   <img src="assets/screenshots/2.png" width="170" height="320"> 
+
 A new Flutter project.
 
 ## Getting Started
